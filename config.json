@@ -1,5 +1,8 @@
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
-	"name": "afk_bot"
+  "serverHost": "DONUTSMPTURKYE.aternos.me",
+  "serverPort": 41216,
+  "botUsername": "Donutsmptr2Bot",
+  "botChunk": 1,
+  "autoReconnect": true,
+  "reconnectDelay": 5000
 }
